@@ -3,7 +3,7 @@ import java.io.InputStreamReader;
 
 
 public class LatihanBesar3 {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) throws Exception {//throw exception berfungsi untuk menangkap error//
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         
         String customer;
